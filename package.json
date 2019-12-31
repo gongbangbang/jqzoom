@@ -1,0 +1,20 @@
+{
+  "name": "jqzoom",
+  "version": "1.0.0",
+  "description": "jQzoom Evolution Library - Javascript Image magnifier ==================================================",
+  "main": "js/jquery.jqzoom-core.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gongbangbang/jqzoom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gongbangbang/jqzoom/issues"
+  },
+  "homepage": "https://github.com/gongbangbang/jqzoom#readme"
+}
