@@ -1,6 +1,6 @@
 {
   "name": "jqzoom",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "jQzoom Evolution Library - Javascript Image magnifier ==================================================",
   "main": "js/jquery.jqzoom-core.js",
   "scripts": {
